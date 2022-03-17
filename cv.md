@@ -35,7 +35,6 @@ function solution(arr, target) {
         }
         
     }
-
 }
 ```
 
