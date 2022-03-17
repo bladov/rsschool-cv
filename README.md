@@ -1,1 +1,1 @@
-# rsschool-cv
+https://bladov.github.io/rsschool-cv/
