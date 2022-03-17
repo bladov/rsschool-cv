@@ -38,3 +38,8 @@ function solution(arr, target) {
 
 }
 ```
+
+### Courses:
+completed a web developer course (basic level) from the skill-box educational platform, then taught javascript using a modern textbook https://learn.javascript.ru/. Among other things, I read the documentation and watched a lot of videos on youtube
+
+#### English А1
